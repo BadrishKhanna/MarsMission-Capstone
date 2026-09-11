@@ -4,4 +4,4 @@ This project has been done as the capstone project of Coursera specialization - 
 Final_Capstone.py is the final project. (Refined and formatted with AI Assistance).
 Cap_1.py is the draft.
 
-Visualization : [https://badrishcapstone.netlify.app/]([url](https://badrishcapstone.netlify.app/))
+Visualization : [https://badrishcapstone.netlify.app/](https://badrishcapstone.netlify.app/)
